@@ -42,5 +42,9 @@ The payments table stores details about payments made by customers. It includes 
 **Screen shots of PowerBi dashboard:**
 ![image](https://github.com/user-attachments/assets/af68c1fd-ae11-4848-9783-61caba98b84c)
 ![image](https://github.com/user-attachments/assets/aa7b5295-ac4f-4c3e-8b4d-a1bb942b702e)
+![image](https://github.com/user-attachments/assets/8e20a20d-f21e-46d9-ba24-e2bb0cdb937e)
+![image](https://github.com/user-attachments/assets/0eaa1023-1401-4624-baf6-38f648b32681)
+
+
 
 
