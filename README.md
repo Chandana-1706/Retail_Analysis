@@ -7,6 +7,7 @@ The objective of this project is to develop a Power BI dashboard using the Retai
 The retail dataset provided contains valuable information about a retail company, capturing various aspects of its operations. This dataset is essential for understanding and analyzing the company's offices, employees, customers, products, product lines, orders, order details, and payments.
 
 **Table Explanations:**
+
 **Offices Table:**
 This table stores information about the different offices of the retail company, including the office code, city, phone number, address, state, country, postal code, and territory. Each office is uniquely identified by its office code.
 
