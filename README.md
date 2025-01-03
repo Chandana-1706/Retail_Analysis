@@ -39,6 +39,8 @@ This table contains information about the individual items (line items) included
 
 The payments table stores details about payments made by customers. It includes fields such as the customer number (linking to the customers table), check number, payment date, and the payment amount.
 
-**Screen shot of PowerBi dashboard:**
+**Screen shots of PowerBi dashboard:**
 ![image](https://github.com/user-attachments/assets/af68c1fd-ae11-4848-9783-61caba98b84c)
+![image](https://github.com/user-attachments/assets/aa7b5295-ac4f-4c3e-8b4d-a1bb942b702e)
+
 
